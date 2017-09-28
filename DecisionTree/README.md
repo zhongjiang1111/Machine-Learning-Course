@@ -12,6 +12,5 @@ Petal.Width
 Categories: Iris Setosa, Iris Versicolour, or Iris Virginica
 
 Using graphviz, we can use "dot" command to visualize the iris tree model:
+
 > dot -Tpng iris-tree.dot -o iris-tree.png
-
-
