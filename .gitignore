@@ -5,3 +5,5 @@
 # MacOS上的文件。
 .DS_Store
 **/.DS_Store
+
+**/*.pdf
